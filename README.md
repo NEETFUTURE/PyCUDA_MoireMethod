@@ -4,6 +4,8 @@
 
 - 入力画像
 <img src="https://github.com/NEETFUTURE/PyCUDA_MoireMethod/blob/master/sample169-5.jpg" width="400">
+
+
 |0シフト|1シフト|2シフト|3シフト|
 |---|---|---|---|
 |![0シフト](https://github.com/NEETFUTURE/PyCUDA_MoireMethod/blob/master/phase00.png)|![1シフト](https://github.com/NEETFUTURE/PyCUDA_MoireMethod/blob/master/phase01.png)|![2シフト](https://github.com/NEETFUTURE/PyCUDA_MoireMethod/blob/master/phase02.png)|![3シフト](https://github.com/NEETFUTURE/PyCUDA_MoireMethod/blob/master/phase03.png)|
